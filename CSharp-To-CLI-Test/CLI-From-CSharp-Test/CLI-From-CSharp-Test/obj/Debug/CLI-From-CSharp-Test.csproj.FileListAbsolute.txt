@@ -1,0 +1,8 @@
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\obj\Debug\CLI-From-CSharp-Test.csproj.AssemblyReference.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\obj\Debug\CLI-From-CSharp-Test.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\bin\Debug\CLI-From-CSharp-Test.exe.config
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\bin\Debug\CLI-From-CSharp-Test.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\bin\Debug\CLI-From-CSharp-Test.pdb
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\obj\Debug\CLI-From-CSharp-Test.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\obj\Debug\CLI-From-CSharp-Test.pdb
+C:\Users\Joey\Desktop\Imperial\UROP\Y3 UROP\AD9959-GUI\CSharp-To-CLI-Test\CLI-From-CSharp-Test\CLI-From-CSharp-Test\obj\Debug\CLI-From-CSharp-Test.exe.config
