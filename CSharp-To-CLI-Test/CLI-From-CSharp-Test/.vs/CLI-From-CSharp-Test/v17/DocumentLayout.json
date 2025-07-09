@@ -1,12 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\",
+  "WorkspaceRootPath": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3-UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CLI-From-CSharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B57E370-144F-4967-8F9E-A9B79E26F9D4}|CLI-From-CSharp-Test\\CLI-From-CSharp-Test.csproj|c:\\users\\joey\\desktop\\imperial\\urop\\y3 urop\\ad9959-gui\\csharp-to-cli-test\\cli-from-csharp-test\\cli-from-csharp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B57E370-144F-4967-8F9E-A9B79E26F9D4}|CLI-From-CSharp-Test\\CLI-From-CSharp-Test.csproj|C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3-UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\cli-from-csharp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B57E370-144F-4967-8F9E-A9B79E26F9D4}|CLI-From-CSharp-Test\\CLI-From-CSharp-Test.csproj|solutionrelative:cli-from-csharp-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CLI-From-CSharp.cs",
-              "DocumentMoniker": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CLI-From-CSharp.cs",
-              "RelativeDocumentMoniker": "..\\..\\CLI-From-CSharp.cs",
-              "ToolTip": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CLI-From-CSharp.cs",
-              "RelativeToolTip": "..\\..\\CLI-From-CSharp.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:55:40.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\CLI-From-CSharp-Test\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3-UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\CLI-From-CSharp-Test\\Program.cs",
               "RelativeDocumentMoniker": "CLI-From-CSharp-Test\\Program.cs",
-              "ToolTip": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3 UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\CLI-From-CSharp-Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Joey\\Desktop\\Imperial\\UROP\\Y3-UROP\\AD9959-GUI\\CSharp-To-CLI-Test\\CLI-From-CSharp-Test\\CLI-From-CSharp-Test\\Program.cs",
               "RelativeToolTip": "CLI-From-CSharp-Test\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T09:25:26.194Z",
               "EditorCaption": ""
