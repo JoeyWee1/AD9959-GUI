@@ -8,7 +8,10 @@ class Program
         var psi = new ProcessStartInfo
         {
             FileName = "cmd.exe",
-            Arguments = "/C echo guten tag && echo konichiwaa",
+            WorkingDirectory = @"C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CLI-Test-Sketch",
+            Arguments = "/C arduino-cli core update-index"   // Update the core index
+                        + "&& arduino-cli compile --fqbn arduino:avr:uno "  // Compile the sketch
+                        + "&& arduino-cli upload -p COM6 --fqbn arduino:avr:uno", //Upload the sketch
             RedirectStandardOutput = true,
             RedirectStandardError = true,
             UseShellExecute = false,
