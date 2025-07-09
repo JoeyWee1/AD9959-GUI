@@ -6,3 +6,11 @@ C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino\CSh
 C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.exe
 C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.pdb
 C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.exe.config
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\bin\Debug\CSharp-To-CLI-Arduino.exe.config
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\bin\Debug\CSharp-To-CLI-Arduino.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\bin\Debug\CSharp-To-CLI-Arduino.pdb
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.csproj.AssemblyReference.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.exe.config
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-CLI-Arduino-Test\CSharp-To-CLI-Arduino\CSharp-To-CLI-Arduino\obj\Debug\CSharp-To-CLI-Arduino.pdb

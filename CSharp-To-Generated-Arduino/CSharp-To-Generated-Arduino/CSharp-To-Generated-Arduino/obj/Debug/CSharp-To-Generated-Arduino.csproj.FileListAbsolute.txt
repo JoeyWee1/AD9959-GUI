@@ -1,0 +1,2 @@
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.csproj.AssemblyReference.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.csproj.CoreCompileInputs.cache
