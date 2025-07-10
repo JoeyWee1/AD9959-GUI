@@ -1,2 +1,8 @@
 C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.csproj.AssemblyReference.cache
 C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\bin\Debug\CSharp-To-Generated-Arduino.exe.config
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\bin\Debug\CSharp-To-Generated-Arduino.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\bin\Debug\CSharp-To-Generated-Arduino.pdb
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.exe
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.pdb
+C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\CSharp-To-Generated-Arduino\obj\Debug\CSharp-To-Generated-Arduino.exe.config
