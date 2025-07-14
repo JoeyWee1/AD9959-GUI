@@ -30,6 +30,7 @@ class Program
             string error = proc.StandardError.ReadToEnd();
             proc.WaitForExit();
 
+            Console.WriteLine(commands);
             Console.WriteLine("Output: \n" + output);
             if (!string.IsNullOrEmpty(error))
             {
@@ -40,20 +41,26 @@ class Program
 
     static void Main(string[] args)
     {
-        // Begin by creating a new Arduino sketch
+         //Begin by creating a new Arduino sketch
         WriteCommandToCLI("arduino-cli config init --overwrite"
-                          + "&& arduino-cli sketch new Generated-Working-Sketch" // This is the sketch we will manipulate
+                          + "&& arduino-cli sketch new CSharp-Generated-Sketch" // This is the sketch we will manipulate
         );
 
         // Now we must manipulate the sketch at @"./Generated-Working-Sketch/Generated-Working-Sketch.ino"
-        string sketchPath = @"C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-Generated-Sketch\Generated-Working-Sketch\Generated-Working-Sketch.ino";
+        string sketchLoc = @"C:\Users\Joey\Desktop\Imperial\UROP\Y3-UROP\AD9959-GUI\CSharp-Generated-Sketch\";
+        string sketchPath = sketchLoc + "\\CSharp-Generated-Sketch.ino";
         string writeToSketch = "/*\n  Blink.ino\n  Demonstrates basic pin toggling\n*/\nvoid setup() {\n  pinMode(13, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(13, HIGH);\n  delay(100);\n  digitalWrite(13, LOW);\n  delay(100);\n}"; // Write everything to this string to write later
 
         // Writes the writeToSketch string to the sketch
-        File.WriteAllText(sketchPath, writeToSketch, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
+        File.WriteAllText(sketchPath , writeToSketch, new UTF8Encoding(encoderShouldEmitUTF8Identifier: false));
 
         //WriteCommandToCLI("echo holy shit does this still work?");
 
+        // Write the new sketch to the Arduino
+        WriteCommandToCLI("cd " + sketchLoc);
+        WriteCommandToCLI("arduino-cli core update-index");
+        WriteCommandToCLI("arduino-cli compile --fqbn arduino:avr:uno");
+        WriteCommandToCLI("arduino-cli upload -p COM6 --fqbn arduino:avr:uno");
     }
 }
 
