@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI-AD9959-Monotone", "GUI-AD9959-Monotone.csproj", "{B0AC2E4B-A7FB-4FDB-A4CE-DD0E1148B769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoGUI", "..\GUI-Arduino-LEDBlink\ArduinoGUI\ArduinoGUI.csproj", "{97509FA0-F055-46C9-A969-824E304D322B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0AC2E4B-A7FB-4FDB-A4CE-DD0E1148B769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AC2E4B-A7FB-4FDB-A4CE-DD0E1148B769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AC2E4B-A7FB-4FDB-A4CE-DD0E1148B769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AC2E4B-A7FB-4FDB-A4CE-DD0E1148B769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97509FA0-F055-46C9-A969-824E304D322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97509FA0-F055-46C9-A969-824E304D322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97509FA0-F055-46C9-A969-824E304D322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97509FA0-F055-46C9-A969-824E304D322B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2715B76D-4471-4D06-A63F-F9376FCD94F1}
+	EndGlobalSection
+EndGlobal

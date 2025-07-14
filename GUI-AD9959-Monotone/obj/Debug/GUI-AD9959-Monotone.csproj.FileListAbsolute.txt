@@ -1,0 +1,11 @@
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\bin\Debug\GUI-AD9959-Monotone.exe.config
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\bin\Debug\GUI-AD9959-Monotone.exe
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\bin\Debug\GUI-AD9959-Monotone.pdb
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.csproj.AssemblyReference.cache
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI_AD9959_Monotone.Form1.resources
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI_AD9959_Monotone.Properties.Resources.resources
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.csproj.GenerateResource.cache
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.csproj.CoreCompileInputs.cache
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.exe
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.pdb
+C:\Users\UEDM\Desktop\UROP 25\GUI-AD9959-Monotone\obj\Debug\GUI-AD9959-Monotone.exe.config
