@@ -1,5 +1,6 @@
-// 2 level modulation on channel 0. 
-
+/*
+16 level modulation
+*/
 
 # include <SPI.h>
 
@@ -111,6 +112,7 @@ SPI.beginTransaction(SPISettings(125000, MSBFIRST, SPI_MODE0));
 
 //Reset Device:
 digitalWrite(RESET,1);
+delay(1000);
 digitalWrite(RESET,0);
 delay(1);
 
@@ -166,53 +168,66 @@ digitalWrite(CSB,1);
 
 
 
-//Set frequency 1: FTW 0x04:
-setChannelFrequency(0,10000000); 
+// //Set frequency 1: FTW 0x04:
+// setChannelFrequency(0,10000000); 
 
 
 
 
-//Set frequency 2: Channel Word 1. 0x0A
-channelWordFrequency(0,20000000); // This is profile pin 1
+// //Set frequency 2: Channel Word 1. 0x0A
+// channelWordFrequency(0,20000000); // This is profile pin 1
 
-//Set frequency 3: Channel Word 2. 
-channelWordFrequency(1,30000000);
+// //Set frequency 3: Channel Word 2. 
+// channelWordFrequency(1,30000000);
 
-channelWordFrequency(2,40000000);
+// channelWordFrequency(2,40000000);
 
-channelWordFrequency(3,50000000);
+// channelWordFrequency(3,50000000);
 
-channelWordFrequency(4,60000000);
+// channelWordFrequency(4,60000000);
 
-channelWordFrequency(5,70000000);
+// channelWordFrequency(5,70000000);
 
-channelWordFrequency(6,80000000);
+// channelWordFrequency(6,80000000);
 
-channelWordFrequency(7,90000000);
+// channelWordFrequency(7,90000000);
 
-channelWordFrequency(8,100000000);
+// channelWordFrequency(8,100000000);
 
-channelWordFrequency(9,110000000);
+// channelWordFrequency(9,110000000);
 
-channelWordFrequency(10,120000000); //Something wrong
+channelWordFrequency(10,5000000); //Something wrong
 
-channelWordFrequency(11,130000000);
+// channelWordFrequency(11,130000000);
 
-channelWordFrequency(12,140000000);
+// channelWordFrequency(12,140000000);
 
-channelWordFrequency(13,150000000);  
+// channelWordFrequency(13,150000000);  
 
-channelWordFrequency(14,160000000);//Something wrong
+// channelWordFrequency(14,160000000);//Something wrong
 
+//Channel word frequency 15 0x18 manually:
+
+// digitalWrite(CSB,LOW);
+// SPI.transfer(0x14);
+// SPI.transfer(0x); //100MHz
+// SPI.transfer(0x66);
+// SPI.transfer(0x66);
+// SPI.transfer(0x66);
+// digitalWrite(CSB,HIGH);
 
 
 digitalWrite(IO_UPDATE,1);
 digitalWrite(IO_UPDATE,0);
 
 digitalWrite(P0,HIGH);
-digitalWrite(P1,HIGH);
-digitalWrite(P2,LOW);
+digitalWrite(P1, LOW);
+digitalWrite(P2,HIGH);
 digitalWrite(P3,HIGH);
+
+/*
+The channel words 11 and 15 are not working
+*/
 }
 
 void loop() {
